@@ -107,6 +107,7 @@ AI
 - Better state management
 - Clean project architecture
 - Backend integration
+- next js
 - Performance optimization
 
 ---
