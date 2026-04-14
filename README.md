@@ -138,5 +138,5 @@ AI
 <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21~bgwhite.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/> 
 </p>
