@@ -1,152 +1,168 @@
-# 👋 Hi, I'm Shubham Patil
 
-### Full-Stack Developer | MERN Stack Developer
 
-Passionate Full-Stack Developer with hands-on experience building scalable web applications using the MERN stack. I enjoy solving real-world problems through clean code, modern UI design, and AI-powered applications.
+# Hi 👋, I'm Shubham Patil
 
----
+### Full Stack Developer (React / MERN)
 
-## 🚀 About Me
 
-- 💻 Full-Stack Developer (MERN)
-- 🌱 Currently learning Java Backend Development & Spring Boot
-- 🤖 Interested in AI-powered web applications
-- 📍 Pune, Maharashtra, India
-- 📫 Email: **shubhampatil.dev7@gmail.com**
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Redux
-- Tailwind CSS
-- Material UI
-- TypeScript (Basic)
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- MVC Architecture
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- Vercel
-- Netlify
-
-### AI & APIs
-- Google Gemini API
-- Tesseract.js (OCR)
-- GitHub Copilot
-- Claude AI
-
----
-
-# 🚀 Projects
-
-## 🏥 MediFlow – AI Hospital Management System
-
-**Tech Stack**
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Tailwind CSS
-- Google Gemini API
-- Tesseract.js
-- JWT Authentication
-
-### Features
-
-- Multi-role Authentication (Admin, Doctor, Patient)
-- OCR-based Medical Report Analysis
-- AI Doctor Recommendation
-- Appointment Management
-- Dashboard Analytics
-- JWT Authentication
-- Responsive UI
-
----
-
-## 🍜 AI Food Recipe Blog App
-
-**Tech Stack**
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Material UI
-- Google Gemini API
-
-### Features
-
-- AI Recipe Generator
-- Blog Management
-- Authentication
-- CRUD Operations
-- Responsive Design
-- REST API Integration
-
----
-
-## 💼 Experience
-
-**Full-Stack Developer Intern**
-**Felix-IT Systems, Pune**
-
-- Built Full-Stack MERN applications
-- Developed REST APIs
-- Created reusable React components
-- Debugged frontend and backend applications
-- Worked in Agile environment
-
----
-
-# 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**
-
-DAVV University, Indore
-
-CGPA: **7.45**
-
----
-
-# 📈 GitHub Stats
+</div>
 
 <p align="center">
+Passionate developer focused on building responsive, AI-powered web applications using modern frontend and backend technologies.
+Currently sharpening my React, JavaScript, and full-stack development skills by building real-world, production-style projects.
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=04shubham&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=04shubham&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04shubham&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=04Shubhampatil&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 👨‍💻 About Me
 
-- 📧 Email: **shubhampatil.dev7@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/shubham-patil
-- 💻 GitHub: https://github.com/04shubham
+- 🔭 Frontend-focused developer with strong command of **React.js**
+- 🌱 Learning full-stack development using the **MERN stack**
+- 🤖 Exploring AI integrations (Gemini API, OCR) inside real-world apps
+- 🎯 Interested in building scalable, user-friendly web applications
+- 💼 Currently looking for a **Junior Frontend Developer / React Developer** role
+
+📫 **Reach me:** shubhampatil.dev7@gmail.com
 
 ---
 
-⭐ If you like my projects, don't forget to star the repositories!
+## 🚀 Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Web Design
+- React.js
+- React Hooks
+- React Router
+- Tailwind CSS
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+</td>
+<td valign="top" width="33%">
+
+**Database & Tools**
+- MongoDB
+- MySQL
+- Git & GitHub
+- VS Code
+- npm
+- Chrome DevTools
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+### 🏥 1. AI-Powered Hospital Management System
+
+🔗 **Live Demo:** [hospital-management-gamma-two.vercel.app](https://hospital-management-gamma-two.vercel.app/login)  
+📂 **GitHub:** [04Shubhampatil/hospital-management-](https://github.com/04Shubhampatil/hospital-management-)
+
+A full-stack, AI-powered Hospital Management System with secure multi-role authentication for **Patients, Doctors, and Admins**. It intelligently analyzes uploaded medical reports using OCR and **Google Gemini AI**, automatically identifies the required medical specialty, and assigns patients to the most suitable doctor — all while tracking the complete treatment workflow end-to-end.
+
+#### ✨ Features
+- 🔐 Secure multi-role authentication (Patient / Doctor / Admin) with JWT
+- 🧠 AI-based analysis of uploaded medical reports (Google Gemini API)
+- 🔎 OCR-powered text extraction from reports using Tesseract.js
+- 🩺 Automatic specialty detection & smart doctor assignment
+- 📊 End-to-end treatment workflow tracking
+- 💻 Clean, responsive dashboard UI for every role
+
+#### 🛠 Tech Stack
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT Authentication` `Google Gemini API` `Tesseract.js (OCR)`
+
+---
+
+### 🍽️ 2. AI Food Recipe Blog App (MERN + AI)
+
+🔗 **Live Demo:** [mern-foodi-app.onrender.com](https://mern-foodi-app.onrender.com/)
+
+A full-stack food recipe application where users can explore and generate recipes using AI, powered by the **Gemini API**.
+
+#### ✨ Features
+- 🤖 AI recipe generation
+- 📖 Recipe blog interface
+- 📱 Responsive UI
+- 🗂️ Category-based recipes
+- 🎨 Modern UI using Material UI + Tailwind CSS
+- 🎯 Lucide icons integration
+
+#### 🛠 Tech Stack
+**Frontend:** React.js, Material UI, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**AI:** Gemini API
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React patterns
+- Better state management
+- Clean project architecture
+- Backend integration
+- Next.js
+- Performance optimization
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shubham-patil-9773032b4" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/the.shu_bham_patil/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/> 
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like what you see, feel free to connect or check out my repos!
+
+</div>
